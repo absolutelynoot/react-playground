@@ -22,9 +22,9 @@ Header.propTypes = {
 };
 
 // css in JS, put headginStyle as prop in the jsx
-const headingStyle = {
-  color: "red",
-  backgroundColor: "black",
-};
+// const headingStyle = {
+//   color: "red",
+//   backgroundColor: "black",
+// };
 
 export default Header;
